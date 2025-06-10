@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at Huachiew Chalermprakiet University Majoring in Computer Science.
 ---------------------------------------------------------------------------
 
-* ✉️  You can contact me at [651320@hcu.ac.th](mailto:651320@hcu.ac.th)
-
 ### Skills
 
 
